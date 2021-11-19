@@ -1,0 +1,2 @@
+module Competitive_Solving {
+}
